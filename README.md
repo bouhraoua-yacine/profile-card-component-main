@@ -42,5 +42,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yorline](https://www.frontendmentor.io/profile/**yorline******)
+- Frontend Mentor - [@yorline](https://www.frontendmentor.io/profile/yorline)
 
